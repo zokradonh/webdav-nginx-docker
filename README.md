@@ -1,7 +1,7 @@
 # Example
 
 ```bash
-docker run -it -d -v kangdata:/data/www zokradonh/kangarup-server
+docker run -it -d -v data:/data/www zokradonh/webdav-nginx
 ```
 
 # How to create user
